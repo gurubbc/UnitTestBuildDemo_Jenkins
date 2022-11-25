@@ -11,6 +11,9 @@ public class MainApp {
 			log.info(hw.sayHello());
 			log.info("Total amount payable after interest ig "+hw.calculateSimpleInterest(1000, 0.1, 1));
 		}
+		
+		System.out.println("Adding this code at "+new java.util.Date());
+		System.out.println("That's all, let's go for lunch");
 	}
 
 }
