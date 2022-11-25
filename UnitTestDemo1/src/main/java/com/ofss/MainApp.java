@@ -4,6 +4,8 @@ public class MainApp {
 
 	public static void main(String[] args) {
 		
+		
+		System.out.println("This integration is working PERFECTLY");
 		Logger log=Logger.getLogger("MainApp");
 		HelloWorld hw=new HelloWorld();
 		if (log.isLoggable(Level.INFO))
