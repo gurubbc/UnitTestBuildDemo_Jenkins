@@ -14,6 +14,7 @@ public class MainApp {
 		
 		System.out.println("Adding this code at "+new java.util.Date());
 		System.out.println("That's all, let's go for lunch");
+		System.out.println("Attempt1: CI integration Demo");
 	}
 
 }
